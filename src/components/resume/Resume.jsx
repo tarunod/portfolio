@@ -41,11 +41,7 @@ const Resume = () => {
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   Codsoft - 2023
                 </span>
-                <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  As a intern at codsoft we developed severa web applications
-                  usign mern stack. i have learned new things that helped me to
-                  gain experiences.
-                </p>
+                <p className=" text-[.9rem] text-justify break-words text-gray-500"></p>
               </div>
             </div>
           </fieldset>
