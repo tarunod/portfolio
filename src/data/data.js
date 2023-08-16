@@ -6,8 +6,8 @@ export const data = [
     img: "https://i.postimg.cc/prxwvbTh/Screenshot-195.png",
     title: "Gym Website",
     desc: "In this project i have used reactjs to create site components.",
-    link: "",
-    git: "",
+    link: "https://fitclubdeesa.netlify.app/",
+    git: "https://github.com/tarunod/fitclub",
   },
   {
     id: 2,
